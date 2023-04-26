@@ -1,5 +1,10 @@
-  ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=leandronaldei&show_icons=true)
-  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leandronaldei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leandronaldei&theme=vision-friendly-dark&hide_border=false)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=leandronaldei&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandronaldei&layout=compact&theme=vision-friendly-dark)
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Marcus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
